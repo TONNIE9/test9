@@ -22,7 +22,7 @@ int main(){
  		break;
  	
  	default:
- 		cout<<"Wrong Entry";
+ 		cout<<"nvalid";
  		break;
  	return 0;	
  		
